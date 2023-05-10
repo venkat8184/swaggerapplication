@@ -11,5 +11,5 @@ class SwaggerApplicationTests {
 	}
 	//this is in master branch
    //this is madhu branch
-	//Something changed in master directly.
+//something i deleted in master branch.
 }
