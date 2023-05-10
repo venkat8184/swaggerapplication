@@ -9,11 +9,7 @@ class SwaggerApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-	//this is in master branch
-   //this is madhu branch
-//something i deleted in master branch.
-	//This is venkatramana.
-	//This is venkatramana234
-
-	//This is agian adding into master branch.
+	public void test(){
+		//this is venaktramana
+	}
 }
