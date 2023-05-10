@@ -12,4 +12,7 @@ class SwaggerApplicationTests {
 	public void test(){
 		//this is venaktramana
 	}
+	public void master(){
+		//master
+	}
 }
