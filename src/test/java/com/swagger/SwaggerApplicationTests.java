@@ -17,6 +17,9 @@ class SwaggerApplicationTests {
 	public void ramana(){
 		System.out.println("This is venkatramana adding into venkat branch");
 	}
-
+   @Test
+	public void master(){
+		System.out.println("This is master");
+	}
 
 }
