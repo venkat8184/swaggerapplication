@@ -21,5 +21,9 @@ class SwaggerApplicationTests {
 	public void master(){
 		System.out.println("This is master");
 	}
+	@Test
+	public void master2(){
+		this.master();
+	}
 
 }
