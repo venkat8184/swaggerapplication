@@ -29,5 +29,9 @@ class SwaggerApplicationTests {
 	public void venkat2(){
 		System.out.println("Again updating from venkat itself");
 	}
+	@Test
+	public void add(){
+		System.out.println(10+20);
+	}
 
 }
