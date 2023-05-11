@@ -25,5 +25,9 @@ class SwaggerApplicationTests {
 	public void master2(){
 		this.master();
 	}
+	@Test
+	public void venkat2(){
+		System.out.println("Again updating from venkat itself");
+	}
 
 }
