@@ -41,4 +41,7 @@ class SwaggerApplicationTests {
 	public void abc(){
 		System.out.println("Something added to the venkat");
 	}
+	public void last(){
+		System.out.println("This is last method in venkat");
+	}
 }
