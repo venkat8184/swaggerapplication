@@ -58,4 +58,8 @@ public class SwaggerApplication {
 		int c=a+b;
 	}
 
+   public static void sub(){
+		System.out.println("substract");
+   }
+
 }
