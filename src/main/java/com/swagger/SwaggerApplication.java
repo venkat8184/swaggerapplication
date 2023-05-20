@@ -54,5 +54,8 @@ public class SwaggerApplication {
 		System.out.println("master12");
    }
    //new changes
+	public static  void add(int a,int b){
+		int c=a+b;
+	}
 
 }
