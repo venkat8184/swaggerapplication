@@ -30,6 +30,12 @@ public class SwaggerApplication {
 		//from master;
 
 	}
+
 	//this is venkat
+
+	public static void master1(){
+		//master1
+	}
+
 
 }
