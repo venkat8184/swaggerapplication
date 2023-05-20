@@ -61,5 +61,8 @@ public class SwaggerApplication {
    public static void sub(){
 		System.out.println("substract");
    }
+   public static void mul(){
+		System.out.println("multiplication");
+   }
 
 }
