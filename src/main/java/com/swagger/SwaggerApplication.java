@@ -24,5 +24,7 @@ public class SwaggerApplication {
 	public static void master1(){
 		//master1
 	}
-
+   private static void master12(){
+		System.out.println("master12");
+   }
 }
