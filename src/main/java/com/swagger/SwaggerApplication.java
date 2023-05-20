@@ -21,5 +21,8 @@ public class SwaggerApplication {
 	public static void master(){
 		//from master;
 	}
+	public static void master1(){
+		//master1
+	}
 
 }
