@@ -38,14 +38,20 @@ public class SwaggerApplication {
 	}
 
 
+
 	//this is venkat
 
-	public static void master12(){
+	public static void master13(){
 		//master1
 	}
 
    private void venkat12(){
 		System.out.println("this is venkat12");
+   }
+
+
+   private static void master12(){
+		System.out.println("master12");
    }
 
 }
