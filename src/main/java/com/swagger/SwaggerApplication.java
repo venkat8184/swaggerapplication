@@ -11,7 +11,11 @@ public class SwaggerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SwaggerApplication.class, args);
-		
+		System.out.println("this is venkat");
+		System.out.println("this is second method");
+		for(int i=0;i<5;i++){
+			System.out.println(i);
+		}
 	}
 
 }
