@@ -53,5 +53,6 @@ public class SwaggerApplication {
    private static void master12(){
 		System.out.println("master12");
    }
+   //new changes
 
 }
