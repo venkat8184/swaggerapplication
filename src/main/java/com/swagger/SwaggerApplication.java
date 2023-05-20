@@ -44,6 +44,8 @@ public class SwaggerApplication {
 		//master1
 	}
 
-
+   private void venkat12(){
+		System.out.println("this is venkat12");
+   }
 
 }
