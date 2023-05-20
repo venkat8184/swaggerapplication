@@ -16,19 +16,50 @@ public class SwaggerApplication {
 		for(int i=0;i<5;i++){
 			System.out.println(i);
 		}
+		if("venkat".equals("venkat")){
+			System.out.println("This is venkatramana");
+		}
+		//This is venkat ramana
 		//From master branch.
+	}
+
+	public static void venkat() {
+		System.out.println("Venkat");
 	}
 	public static void master(){
 		//from master;
+
 	}
+
+	//this is venkat
+
 	public static void master1(){
 		//master1
 	}
+
+
+
+	//this is venkat
+
+	public static void master13(){
+		//master1
+	}
+
+   private void venkat12(){
+		System.out.println("this is venkat12");
+   }
+
+
    private static void master12(){
 		System.out.println("master12");
    }
+   //new changes
+	public static  void add(int a,int b){
+		int c=a+b;
+	}
 
    public static void sub(){
 		System.out.println("substract");
    }
+
 }
