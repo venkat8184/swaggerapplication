@@ -18,5 +18,8 @@ public class SwaggerApplication {
 		}
 		//From master branch.
 	}
+	public static void master(){
+		//from master;
+	}
 
 }
