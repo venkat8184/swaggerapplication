@@ -22,8 +22,13 @@ public class SwaggerApplication {
 		//This is venkat ramana
 		//From master branch.
 	}
-	public static void venkat(){
+
+	public static void venkat() {
 		System.out.println("Venkat");
+	}
+	public static void master(){
+		//from master;
+
 	}
 
 }
