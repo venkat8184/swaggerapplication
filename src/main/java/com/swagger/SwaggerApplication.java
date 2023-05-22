@@ -67,4 +67,8 @@ public class SwaggerApplication {
 		System.out.println("multiplication");
 	}
 
+	public void girish(){
+		System.out.println("girish");
+	}
+
 }
