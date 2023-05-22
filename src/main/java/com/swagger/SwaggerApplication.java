@@ -66,5 +66,8 @@ public class SwaggerApplication {
 	public static void div(){
 		System.out.println("multiplication");
 	}
+	public static void venkat1(){
+		System.out.println("venkat1");
+	}
 
 }
