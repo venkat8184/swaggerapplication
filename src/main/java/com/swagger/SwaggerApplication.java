@@ -70,4 +70,8 @@ public class SwaggerApplication {
 		System.out.println("venkat1");
 	}
 
+	public void girish(){
+		System.out.println("girish");
+	}
+
 }
